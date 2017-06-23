@@ -1,0 +1,13 @@
+Package: RevoUtilsMath
+Version: 10.0.0
+Date: 2016-03-11
+RevoBuildID: 1
+Title: Microsoft R Services Math Utilities Package
+Author: Microsoft Corporation
+Maintainer: Microsoft Corporation <mrspack@microsoft.com>
+SystemRequirements: R (>= 3.0.0), Intel Math Kernel Library
+Description: Utility functions for managing math threading.
+License: file LICENSE
+Copyright: Copyright 2016 Microsoft Corporation
+Built: R 3.2.2; x86_64-w64-mingw32; 2017-01-13 22:12:05 UTC; windows
+Archs: x64
